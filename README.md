@@ -7,7 +7,7 @@
 Finify Internship Task
 
 ## Tech Stack
-- ReactJs 
+- NextJs 
 - TypeScript 
 - Tailwind CSS
 
